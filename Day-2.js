@@ -1,6 +1,6 @@
 //* ------------------------------------------
 //* Programming question : Hash Tag generator
-//* -----------------------------------------
+//* ------------------------------------------
 
 //? You are required to implement a function generateHash that generates a hash tag from a given input string.The hash tag should be constructed as follows:
 
